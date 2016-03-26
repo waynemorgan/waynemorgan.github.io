@@ -1,0 +1,13 @@
+#content{
+    padding-left: 10px;
+    text-align: center;
+}
+
+#content > table{
+    width: 80%;
+    margin: 0px auto;
+}
+
+tbody > tr > td:nth-child(3){
+            font-family: monospace;
+        }
